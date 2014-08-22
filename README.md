@@ -9,4 +9,4 @@ VS2013には[Visual C++ Compiler November 2013 CTP](http://www.microsoft.com/en-
 
 * VS2013以外は？
 
-もしVS2013以外を使用している人が入れば知らせてください。
+もしVS2013以外を使用している人がいれば知らせてください。
